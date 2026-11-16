@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.favourite-places-bg-container {
+    background-image: url('https://images.unsplash.com/photo-1468581264429-2548ef9eb73');
+    background-size: cover;
+    padding: 24px;
+}
+
+.favourite-places-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 20px;
+    padding: 24px;
+    margin-bottom: 20px;
+}
